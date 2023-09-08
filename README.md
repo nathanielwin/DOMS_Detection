@@ -22,6 +22,6 @@ This section encompasses Visualization, Integration, and Deployment.
 In this phase, my main goals are:
 - Design microcontroller interface
 - Integration between 3 EMG sensors and microcontroller
-- Deploy machine learning model that have been built in PC into microcontroller
+- Deploy machine learning model that have been built in PC into microcontroller to detect DOMS after cycling
 
 ### So, there you have it! My journey from collecting sensors data to deploying machine learning model into microcontroller. Feel free to check out the code! 🤓
