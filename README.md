@@ -1,7 +1,7 @@
 # Delayed Onset Muscle Soreness (DOMS) Detection 🚴🏼‍♀️💪
 Hey there! Welcome to my DOMS Detection project. 
 
-🚀 In this project, I'll give you a sneak peek into how I processed data, trained a machine learning model, and managed to deploy it into a microcontroller (Mikromedia 7 with STM32F746ZG chipset) using MikroC Pro for ARM. So, buckle up, and let's dive in!
+🚀 In this project, I'll give you a sneak peek into how I processed data, trained a machine learning model, and managed to deploy it into a microcontroller (Mikromedia 7 with STM32F746ZG chipset) using MikroC Pro for ARM to finally detect DOMS in realtime using EMG sensors. So, buckle up, and let's dive in!
 
 **NOTES:** 
 - Hardware used: a Microcontroller (Mikromedia 7 FPI Capacitive with STM32F746ZG MCU Card), 3 EMG Click, USB UART Click, and Electrodes.
