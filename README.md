@@ -18,6 +18,7 @@ In this phase, my main goals are:
 
 ## 2. Hardware Program 🚀
 This section encompasses Visualization, Integration, and Deployment.
+
 In this phase, my main goals are:
 - Design microcontroller interface
 - Integration between 3 EMG sensors and microcontroller
