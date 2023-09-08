@@ -10,7 +10,7 @@ Hey there! Welcome to my DOMS Detection project.
 ## 1. Software Processing 🔍
 This section encompasses Exploratory Data Analysis (EDA), Cleaning, and Machine Learning Modeling. Machine Learning used in this project is Neural Network.
 
-In this phase, my main goals are:
+In this section, my main goals are:
 - Exploring the data
 - Identifying necessary cleaning steps
 - Built dataset
@@ -19,7 +19,7 @@ In this phase, my main goals are:
 ## 2. Hardware Program 🚀
 This section encompasses Visualization, Integration, and Deployment.
 
-In this phase, my main goals are:
+In this section, my main goals are:
 - Design microcontroller interface
 - Integration between 3 EMG sensors and microcontroller
 - Deploy machine learning model that have been built in PC into microcontroller to detect DOMS after cycling
