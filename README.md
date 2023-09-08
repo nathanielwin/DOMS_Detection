@@ -9,6 +9,7 @@ Hey there! Welcome to my DOMS Detection project.
 
 ## 1. Software Processing 🔍
 This section encompasses Exploratory Data Analysis (EDA), Cleaning, and Machine Learning Modeling. Machine Learning used in this project is Neural Network.
+
 In this phase, my main goals are:
 - Exploring the data
 - Identifying necessary cleaning steps
