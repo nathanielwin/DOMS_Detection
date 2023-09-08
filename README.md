@@ -8,7 +8,7 @@ Hey there! Welcome to my DOMS Detection project.
 - Software used: Python for the Software Processing and Mikro C Pro for ARM for the Hardware Program.
 - The data used in this project are primary data using 3 electromyography (EMG) from the Calve (emg1), Quadricep (emg2), and Hamstring Muscle (emg3).
 
-## 1. Software Processing 🖥️💻
+## 1. Software Processing 🖥️
 This section encompasses Exploratory Data Analysis (EDA), Cleaning, and Machine Learning Modeling. Machine Learning used in this project is Neural Network.
 
 In this section, my main goals are:
