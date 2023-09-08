@@ -3,8 +3,9 @@ Hey there! Welcome to my DOMS Detection project.
 🚀 In this project, I'll give you a sneak peek into how I processed data, trained a machine learning model, and managed to deploy it into a microcontroller (Mikromedia 7 with STM32F746ZG chipset) using MikroC Pro for ARM. So, buckle up, and let's dive in!
 
 **NOTES:** 
-- In this project, I use Python Programming language for the software processing and use C Programming language for the Hardware Program. The data used in this project are primary data using 3 electromyography (EMG) from the Quadricep, Hamstring, and Calve muscles.
 - Hardware used: a Microcontroller (Mikromedia 7 FPI Capacitive with STM32F746ZG MCU Card), 3 EMG Click, Electrodes
+- Software used: Python for the Software Processing and Mikro C Pro for ARM for the Hardware Program.
+- The data used in this project are primary data using 3 electromyography (EMG) from the Calve (emg1), Quadricep (emg2), and Hamstring Muscle (emg3).
 
 ## 1. Software Processing 🔍
 This section encompasses Exploratory Data Analysis (EDA), Cleaning, and Modeling.
